@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This repository contains information about myself.
+
 <!--
 **triompheloro/triompheloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
