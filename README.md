@@ -34,13 +34,6 @@
 - **[RAG-WebApp](https://github.com/triompheloro/RAG-WebApp)** — web application around retrieval-augmented workflows.
 - **[PORTFOLIOCMS](https://github.com/triompheloro/PORTFOLIOCMS)** — CMS-oriented web platform work.
 
-## 📈 GitHub Snapshot
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=triompheloro&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triompheloro&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
