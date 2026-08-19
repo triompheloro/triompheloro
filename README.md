@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lova 👋</h1>
+<h1 align="center">Hi, I'm LORO 👋</h1>
 
 <p align="center">
   <b>Software Engineer • AI/NLP Enthusiast • Full-Stack Builder</b>
