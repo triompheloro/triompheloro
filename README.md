@@ -1,14 +1,8 @@
 <h1 align="center">Hi, I'm LORO</h1>
 
 <p align="center">
-  <b>Software Engineer • AI/NLP Enthusiast • Data scientist • Full-Stack Developper</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/triompheloro">
-    <img src="https://img.shields.io/badge/Profile-Modern%20Portfolio-7F5AF0?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20Apps%20%7C%20Automation-2CB67D?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Software%20Engineer-AI%20Enthusiast-7F5AF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-Full%20Stack%20Developper-2CB67D?style=for-the-badge" />
 </p>
 
 ---
