@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm LORO 👋</h1>
+<h1 align="center">Hi, I'm LORO</h1>
 
 <p align="center">
-  <b>Software Engineer • AI/NLP Enthusiast • Full-Stack Builder</b>
+  <b>Software Engineer • AI/NLP Enthusiast • Data scientist • Full-Stack Developper</b>
 </p>
 
 <p align="center">
@@ -13,20 +13,21 @@
 
 ---
 
-## 🚀 What I Specialize In
+## What I Specialize In
 
-- 🤖 **AI, NLP & RAG systems** — building intelligent apps around retrieval, language processing, and optimization workflows.
-- 🌐 **Full-Stack Web Development** — delivering complete products from backend APIs to clean frontend experiences.
-- ⚙️ **Backend Engineering** — creating scalable services and business logic with Python and Java.
-- 🧠 **Problem Solving & Algorithms** — applying mathematical and algorithmic thinking to real-world products.
+- **AI, NLP & RAG systems** — building intelligent apps around retrieval, language processing, and optimization workflows.
+- **Full-Stack Web Development** — delivering complete products from backend APIs to clean frontend experiences.
+- **Data scientist** — extracting insight and predicting what any data tells
+- **Backend Engineering** — creating scalable services and business logic with Python and Java.
+- **Problem Solving & Algorithms** — applying mathematical and algorithmic thinking to real-world products.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,php,java,html,css,sqlite,git" />
 </p>
 
-## 📌 Work Highlights
+## Work Highlights
 
 - **[RAG_optimizer](https://github.com/triompheloro/RAG_optimizer)** — optimization-focused RAG experimentation.
 - **[MadaTest](https://github.com/triompheloro/MadaTest)** — NLP project for Malagasy text recognition.
