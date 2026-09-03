@@ -24,7 +24,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,php,java,html,css,sqlite,git" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,php,java,html,css,sqlite,mysql,pytorch,tensorflow,git" />
 </p>
 
 ## Work Highlights
